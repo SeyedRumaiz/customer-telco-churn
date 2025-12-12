@@ -5,7 +5,14 @@ This is a project which focuses on Binary classification to predict customer
 churn using telecommunications data.
 
 ## Project Structure
-1. `01_eda.ipynb` - Exploratory Data Analysis and Visualizations
+
+* [customer-telco-churn](./)
+  * [data](./data) - Clean and raw data
+  * [notebooks](./notebooks) - Colab notebooks
+  * [.Rhistory](./.Rhistory)
+  * [.gitignore](./.gitignore)
+  * [README.md](./README.md) - Project documentation
+  * [requirements.txt](./requirements.txt) - Python dependencies
 
 ## Setup Instructions
 1. Clone this repository
